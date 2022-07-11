@@ -25,3 +25,7 @@ if c > a and c > b:
     maior = c
 
 print(f"o maior numero sera {maior}")
+
+
+print("-------------------------------")
+
